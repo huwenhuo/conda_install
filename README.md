@@ -3,4 +3,4 @@
 ## logout and in to start conda
 ## conda create -n r36
 ## conda activate r36
-## conda install -y r-base tmux r-seurat r-maftools
+## conda install -y r-base tmux r-seurat bioconductor-maftools vim
