@@ -4,3 +4,6 @@
 ## conda create -n r36
 ## conda activate r36
 ## conda install -y r-base tmux r-seurat bioconductor-maftools vim
+## https://github.com/junegunn/vim-plug:
+### curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
